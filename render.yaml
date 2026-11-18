@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: bend-or-97703
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
