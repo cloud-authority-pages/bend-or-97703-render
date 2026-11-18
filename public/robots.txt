@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bend-or-97703.onrender.com/sitemap.xml
+Sitemap: https://bend-or-97703.onrender.com/bend-property-management/sitemap.xml
